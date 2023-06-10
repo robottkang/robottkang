@@ -3,6 +3,11 @@
 Hello! I'm Minmo Kang, a.k.a robottkang, who loves playing game and developing game.
 
 My contact: robottkang@gmail.com
+
+## Play My Game 🎮
+
+- [Emit&Exit](https://robottkang.itch.io/emitexit)
+- [EfficiencyBug](https://play.google.com/store/apps/details?id=com.Cracker.EfficiencyBug)
 <!--
 **robottkang/robottkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
